@@ -1,0 +1,19 @@
+body{
+  background-color: #2292a4;
+  color: #ffffff;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+button{
+  color: #ffffff;
+  padding: 5px 20px;
+  background-color: #337ab7;
+  border-style: none
+}
+button:hover{
+  background-color: #6ae;
+}
+input{
+  height: 23px;
+}
